@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPPDiegoTamayo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfd212b4ebe2d824585c12e8e73229d4c0f0c8b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcc62e41baccd3282ed5c10aa43d6a5d689b776a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPPDiegoTamayo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPPDiegoTamayo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
