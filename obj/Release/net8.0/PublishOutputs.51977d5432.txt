@@ -1,0 +1,7 @@
+D:\Diego\Azure\WebAPPDiegoTamayo\obj\Release\net8.0\PubTmp\Out\WebAPPDiegoTamayo.exe
+D:\Diego\Azure\WebAPPDiegoTamayo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Diego\Azure\WebAPPDiegoTamayo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Diego\Azure\WebAPPDiegoTamayo\obj\Release\net8.0\PubTmp\Out\WebAPPDiegoTamayo.dll
+D:\Diego\Azure\WebAPPDiegoTamayo\obj\Release\net8.0\PubTmp\Out\WebAPPDiegoTamayo.deps.json
+D:\Diego\Azure\WebAPPDiegoTamayo\obj\Release\net8.0\PubTmp\Out\WebAPPDiegoTamayo.runtimeconfig.json
+D:\Diego\Azure\WebAPPDiegoTamayo\obj\Release\net8.0\PubTmp\Out\WebAPPDiegoTamayo.pdb
